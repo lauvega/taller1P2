@@ -176,7 +176,7 @@ Antes de entregar, verifica:
 
 - [Documentación oficial de Java](https://docs.oracle.com/en/java/)
 - [PlantUML Guide](https://plantuml.com/)
-- Apuntes de clase y material del curso
+- [Apuntes de clase y material del curso](https://java-learn-test.netlify.app/)
 
 ---
 
