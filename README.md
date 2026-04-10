@@ -1,3 +1,13 @@
+#INTEGRANTES:
+Laura Vega
+Edgar Porras
+Alejandra Garcés
+Emanuel Bravo
+
+#seccion:
+seccion 7, 1602
+
+
 # taller1P2
 Evaluación de conocimientos hasta el corte 2
 
